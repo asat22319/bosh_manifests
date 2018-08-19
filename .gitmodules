@@ -1,0 +1,6 @@
+[submodule "bosh-deployment"]
+	path = bosh-deployment
+	url = https://github.com/cloudfoundry/bosh-deployment.git
+[submodule "nexus-boshrelease"]
+	path = nexus-boshrelease
+	url = https://github.com/making/nexus-boshrelease.git
